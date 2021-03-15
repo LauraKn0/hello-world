@@ -1,2 +1,2 @@
 # hello-world
-This is a first test of a new repository
+I' currently testing GitHub and figuring out branching and commitments.
